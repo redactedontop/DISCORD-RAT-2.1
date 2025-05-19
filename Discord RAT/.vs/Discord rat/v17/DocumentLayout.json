@@ -1,0 +1,100 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\Dinis\\Discord-RAT-2.0\\Discord rat\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{E776B801-614D-4E3C-A446-5A35B0CF3D08}|..\\builder\\builder.csproj|c:\\users\\dinis\\discord-rat-2.0\\builder\\builder.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E776B801-614D-4E3C-A446-5A35B0CF3D08}|..\\builder\\builder.csproj|c:\\users\\dinis\\discord-rat-2.0\\builder\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{CC12258F-AF24-4773-A8E3-45D365BCBDE9}|Discord rat.csproj|c:\\users\\dinis\\discord-rat-2.0\\discord rat\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{CC12258F-AF24-4773-A8E3-45D365BCBDE9}|Discord rat.csproj|solutionrelative:program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E776B801-614D-4E3C-A446-5A35B0CF3D08}|..\\builder\\builder.csproj|c:\\users\\dinis\\discord-rat-2.0\\builder\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E776B801-614D-4E3C-A446-5A35B0CF3D08}|..\\builder\\builder.csproj|c:\\users\\dinis\\discord-rat-2.0\\builder\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Builder",
+              "DocumentMoniker": "C:\\Users\\Dinis\\Discord-RAT-2.0\\builder\\Builder.csproj",
+              "RelativeDocumentMoniker": "..\\builder\\Builder.csproj",
+              "ToolTip": "C:\\Users\\Dinis\\Discord-RAT-2.0\\builder\\Builder.csproj",
+              "RelativeToolTip": "..\\builder\\Builder.csproj",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAgAAAASAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
+              "WhenOpened": "2025-05-19T18:32:22.174Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\Dinis\\Discord-RAT-2.0\\builder\\Program.cs",
+              "RelativeDocumentMoniker": "..\\builder\\Program.cs",
+              "ToolTip": "C:\\Users\\Dinis\\Discord-RAT-2.0\\builder\\Program.cs",
+              "RelativeToolTip": "..\\builder\\Program.cs",
+              "ViewState": "AgIAAAgAAAAAAAAAAAA2wBIAAAAfAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-19T18:27:34.276Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "Form1.cs",
+              "DocumentMoniker": "C:\\Users\\Dinis\\Discord-RAT-2.0\\builder\\Form1.cs",
+              "RelativeDocumentMoniker": "..\\builder\\Form1.cs",
+              "ToolTip": "C:\\Users\\Dinis\\Discord-RAT-2.0\\builder\\Form1.cs",
+              "RelativeToolTip": "..\\builder\\Form1.cs",
+              "ViewState": "AgIAABMAAAAAAAAAAAAswBcAAAAJAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-19T18:27:26.028Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "Form1.cs [Design]",
+              "DocumentMoniker": "C:\\Users\\Dinis\\Discord-RAT-2.0\\builder\\Form1.cs",
+              "RelativeDocumentMoniker": "..\\builder\\Form1.cs",
+              "ToolTip": "C:\\Users\\Dinis\\Discord-RAT-2.0\\builder\\Form1.cs [Design]",
+              "RelativeToolTip": "..\\builder\\Form1.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-19T18:16:14.943Z",
+              "EditorCaption": " [Design]"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\Dinis\\Discord-RAT-2.0\\Discord rat\\Program.cs",
+              "RelativeDocumentMoniker": "Program.cs",
+              "ToolTip": "C:\\Users\\Dinis\\Discord-RAT-2.0\\Discord rat\\Program.cs",
+              "RelativeToolTip": "Program.cs",
+              "ViewState": "AgIAAKcDAAAAAAAAAAAgwLUDAAARAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-19T16:34:51.003Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
