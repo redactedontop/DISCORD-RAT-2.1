@@ -7,7 +7,7 @@
     <ImportWindowsDesktopTargets>true</ImportWindowsDesktopTargets>
   </PropertyGroup>
   <PropertyGroup Condition="'$(Configuration)|$(Platform)' == 'Release|AnyCPU' ">
-    <OutputPath>..\Discord RAT\bin\</OutputPath>
+    <OutputPath>..\Discord RAT\bin\Release\</OutputPath>
   </PropertyGroup>
   <ItemGroup>
     <PackageReference Include="dnlib" Version="3.5.0" />
