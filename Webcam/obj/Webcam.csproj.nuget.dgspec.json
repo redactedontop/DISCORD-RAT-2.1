@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\Dinis\\Discord-RAT-2.0\\Webcam\\Webcam.csproj": {}
+    "C:\\Users\\Dinis\\Discord-RAT-2.1\\Webcam\\Webcam.csproj": {}
   },
   "projects": {
-    "C:\\Users\\Dinis\\Discord-RAT-2.0\\Webcam\\Webcam.csproj": {
+    "C:\\Users\\Dinis\\Discord-RAT-2.1\\Webcam\\Webcam.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\Dinis\\Discord-RAT-2.0\\Webcam\\Webcam.csproj",
+        "projectUniqueName": "C:\\Users\\Dinis\\Discord-RAT-2.1\\Webcam\\Webcam.csproj",
         "projectName": "Webcam",
-        "projectPath": "C:\\Users\\Dinis\\Discord-RAT-2.0\\Webcam\\Webcam.csproj",
+        "projectPath": "C:\\Users\\Dinis\\Discord-RAT-2.1\\Webcam\\Webcam.csproj",
         "packagesPath": "C:\\Users\\Dinis\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\Dinis\\Discord-RAT-2.0\\Webcam\\obj\\",
+        "outputPath": "C:\\Users\\Dinis\\Discord-RAT-2.1\\Webcam\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
@@ -53,10 +53,6 @@
             "Microsoft.CSharp": {
               "target": "Package",
               "version": "[4.7.0, )"
-            },
-            "Microsoft.Windows.SDK.Contracts": {
-              "target": "Package",
-              "version": "[10.0.26100.4188, )"
             },
             "System.Data.DataSetExtensions": {
               "target": "Package",

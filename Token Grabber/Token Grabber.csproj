@@ -4,13 +4,11 @@
     <OutputType>Library</OutputType>
     <GenerateAssemblyInfo>false</GenerateAssemblyInfo>
   </PropertyGroup>
-  <PropertyGroup Condition=" '$(Configuration)|$(Platform)' == 'Release|AnyCPU' ">
-    <OutputPath>..\Discord rat\Resources\</OutputPath>
+  <PropertyGroup Condition="'$(Configuration)|$(Platform)' == 'Release|AnyCPU' ">
+    <OutputPath>..\Discord RAT\Resources\</OutputPath>
   </PropertyGroup>
   <ItemGroup>
-    <None Include="src\BouncyCastle.Crypto.csproj" />
-  </ItemGroup>
-  <ItemGroup>
+    <PackageReference Include="BouncyCastle.Cryptography" Version="2.6.0" />
     <PackageReference Include="Microsoft.CSharp" Version="4.7.0" />
     <PackageReference Include="System.Data.DataSetExtensions" Version="4.5.0" />
     <PackageReference Include="System.Security.Cryptography.ProtectedData" Version="9.0.5" />

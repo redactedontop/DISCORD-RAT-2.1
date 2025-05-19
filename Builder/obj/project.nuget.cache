@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "WiV/K1VxdgI=",
+  "dgSpecHash": "m2jEdnX+hiU=",
   "success": true,
-  "projectFilePath": "C:\\Users\\Dinis\\Discord-RAT-2.0\\builder\\Builder.csproj",
+  "projectFilePath": "C:\\Users\\Dinis\\Discord-RAT-2.1\\builder\\Builder.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\Dinis\\.nuget\\packages\\dnlib\\3.5.0\\dnlib.3.5.0.nupkg.sha512",
     "C:\\Users\\Dinis\\.nuget\\packages\\microsoft.csharp\\4.7.0\\microsoft.csharp.4.7.0.nupkg.sha512",

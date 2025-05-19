@@ -13,7 +13,4 @@
     <SourceRoot Include="C:\Users\Dinis\.nuget\packages\" />
     <SourceRoot Include="C:\Program Files (x86)\Microsoft Visual Studio\Shared\NuGetPackages\" />
   </ItemGroup>
-  <ImportGroup Condition=" '$(ExcludeRestorePackageImports)' != 'true' ">
-    <Import Project="$(NuGetPackageRoot)microsoft.windows.sdk.contracts\10.0.26100.4188\build\Microsoft.Windows.SDK.Contracts.props" Condition="Exists('$(NuGetPackageRoot)microsoft.windows.sdk.contracts\10.0.26100.4188\build\Microsoft.Windows.SDK.Contracts.props')" />
-  </ImportGroup>
 </Project>

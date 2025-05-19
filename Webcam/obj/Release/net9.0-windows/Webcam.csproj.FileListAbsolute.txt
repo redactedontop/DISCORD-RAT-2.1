@@ -1,0 +1,11 @@
+C:\Users\Dinis\Discord-RAT-2.1\Webcam\obj\Release\net9.0-windows\Webcam.csproj.AssemblyReference.cache
+C:\Users\Dinis\Discord-RAT-2.1\Webcam\obj\Release\net9.0-windows\Webcam.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Dinis\Discord-RAT-2.1\Webcam\obj\Release\net9.0-windows\Webcam.csproj.CoreCompileInputs.cache
+C:\Users\Dinis\Discord-RAT-2.1\Webcam\obj\Release\net9.0-windows\Webcam.sourcelink.json
+C:\Users\Dinis\Discord-RAT-2.1\Discord RAT\Resources\net9.0-windows\Webcam.deps.json
+C:\Users\Dinis\Discord-RAT-2.1\Discord RAT\Resources\net9.0-windows\Webcam.dll
+C:\Users\Dinis\Discord-RAT-2.1\Discord RAT\Resources\net9.0-windows\Webcam.pdb
+C:\Users\Dinis\Discord-RAT-2.1\Webcam\obj\Release\net9.0-windows\Webcam.dll
+C:\Users\Dinis\Discord-RAT-2.1\Webcam\obj\Release\net9.0-windows\refint\Webcam.dll
+C:\Users\Dinis\Discord-RAT-2.1\Webcam\obj\Release\net9.0-windows\Webcam.pdb
+C:\Users\Dinis\Discord-RAT-2.1\Webcam\obj\Release\net9.0-windows\ref\Webcam.dll

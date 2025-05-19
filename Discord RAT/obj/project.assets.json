@@ -177,11 +177,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\Dinis\\Discord-RAT-2.0\\Discord rat\\Discord RAT.csproj",
+      "projectUniqueName": "C:\\Users\\Dinis\\Discord-RAT-2.1\\Discord RAT\\Discord RAT.csproj",
       "projectName": "Discord RAT",
-      "projectPath": "C:\\Users\\Dinis\\Discord-RAT-2.0\\Discord rat\\Discord RAT.csproj",
+      "projectPath": "C:\\Users\\Dinis\\Discord-RAT-2.1\\Discord RAT\\Discord RAT.csproj",
       "packagesPath": "C:\\Users\\Dinis\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\Dinis\\Discord-RAT-2.0\\Discord rat\\obj\\",
+      "outputPath": "C:\\Users\\Dinis\\Discord-RAT-2.1\\Discord RAT\\obj\\",
       "projectStyle": "PackageReference",
       "fallbackFolders": [
         "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"

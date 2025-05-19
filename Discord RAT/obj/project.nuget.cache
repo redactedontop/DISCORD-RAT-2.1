@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "5gTFr5WBqBo=",
+  "dgSpecHash": "Y/9izjyUVuE=",
   "success": true,
-  "projectFilePath": "C:\\Users\\Dinis\\Discord-RAT-2.0\\Discord rat\\Discord RAT.csproj",
+  "projectFilePath": "C:\\Users\\Dinis\\Discord-RAT-2.1\\Discord RAT\\Discord RAT.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\Dinis\\.nuget\\packages\\microsoft.csharp\\4.7.0\\microsoft.csharp.4.7.0.nupkg.sha512",
     "C:\\Users\\Dinis\\.nuget\\packages\\system.data.datasetextensions\\4.5.0\\system.data.datasetextensions.4.5.0.nupkg.sha512",

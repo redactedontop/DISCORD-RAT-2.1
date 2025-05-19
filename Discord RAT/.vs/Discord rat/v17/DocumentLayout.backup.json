@@ -1,20 +1,19 @@
 {
   "Version": 1,
-  "WorkspaceRootPath": "C:\\Users\\Dinis\\Discord-RAT-2.0\\Discord rat\\",
+  "WorkspaceRootPath": "C:\\Users\\Dinis\\Discord-RAT-2.1\\Discord RAT\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{DBAE6A6E-AE23-4DE9-9AB2-6A8D2CD59DEF}|..\\Webcam\\Webcam.csproj|c:\\users\\dinis\\discord-rat-2.0\\webcam\\webcam.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{CC12258F-AF24-4773-A8E3-45D365BCBDE9}|Discord RAT.csproj|c:\\users\\dinis\\discord-rat-2.1\\discord rat\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{CC12258F-AF24-4773-A8E3-45D365BCBDE9}|Discord RAT.csproj|solutionrelative:program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{CC12258F-AF24-4773-A8E3-45D365BCBDE9}|Discord rat.csproj|c:\\users\\dinis\\discord-rat-2.0\\discord rat\\discord rat.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
-      "RelativeMoniker": "D:0:0:{CC12258F-AF24-4773-A8E3-45D365BCBDE9}|Discord rat.csproj|solutionrelative:discord rat.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
+      "AbsoluteMoniker": "D:0:0:{DBAE6A6E-AE23-4DE9-9AB2-6A8D2CD59DEF}|..\\Webcam\\Webcam.csproj|c:\\users\\dinis\\discord-rat-2.1\\webcam\\webcam.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{CC12258F-AF24-4773-A8E3-45D365BCBDE9}|Discord rat.csproj|c:\\users\\dinis\\discord-rat-2.0\\discord rat\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{CC12258F-AF24-4773-A8E3-45D365BCBDE9}|Discord rat.csproj|solutionrelative:program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{DBAE6A6E-AE23-4DE9-9AB2-6A8D2CD59DEF}|..\\Webcam\\Webcam.csproj|c:\\users\\dinis\\discord-rat-2.1\\webcam\\webcam.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{FAA8C7E2-4409-44F5-B2CA-EBBA4D4F41F0}|..\\Token grabber\\Token grabber.csproj|c:\\users\\dinis\\discord-rat-2.0\\token grabber\\grabber.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{DBAE6A6E-AE23-4DE9-9AB2-6A8D2CD59DEF}|..\\Webcam\\Webcam.csproj|c:\\users\\dinis\\discord-rat-2.1\\webcam\\webcam.csproj||{04B8AB82-A572-4FEF-95CE-5222444B6B64}|"
     }
   ],
   "DocumentGroupContainers": [
@@ -29,53 +28,52 @@
             {
               "$type": "Document",
               "DocumentIndex": 0,
-              "Title": "webcam.cs",
-              "DocumentMoniker": "C:\\Users\\Dinis\\Discord-RAT-2.0\\Webcam\\webcam.cs",
-              "RelativeDocumentMoniker": "..\\Webcam\\webcam.cs",
-              "ToolTip": "C:\\Users\\Dinis\\Discord-RAT-2.0\\Webcam\\webcam.cs",
-              "RelativeToolTip": "..\\Webcam\\webcam.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAIAAAAYAAAAAAAAAA==",
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\Dinis\\Discord-RAT-2.1\\Discord RAT\\Program.cs",
+              "RelativeDocumentMoniker": "Program.cs",
+              "ToolTip": "C:\\Users\\Dinis\\Discord-RAT-2.1\\Discord RAT\\Program.cs",
+              "RelativeToolTip": "Program.cs",
+              "ViewState": "AgIAAKcAAAAAAAAAAAAowKIAAACDAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-05-19T16:57:16.002Z",
+              "WhenOpened": "2025-05-19T19:24:10.979Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
               "DocumentIndex": 3,
-              "Title": "grabber.cs",
-              "DocumentMoniker": "C:\\Users\\Dinis\\Discord-RAT-2.0\\Token grabber\\grabber.cs",
-              "RelativeDocumentMoniker": "..\\Token grabber\\grabber.cs",
-              "ToolTip": "C:\\Users\\Dinis\\Discord-RAT-2.0\\Token grabber\\grabber.cs",
-              "RelativeToolTip": "..\\Token grabber\\grabber.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAsAAAARAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-05-19T16:49:38.671Z",
+              "Title": "Webcam",
+              "DocumentMoniker": "C:\\Users\\Dinis\\Discord-RAT-2.1\\Webcam\\Webcam.csproj",
+              "RelativeDocumentMoniker": "..\\Webcam\\Webcam.csproj",
+              "ToolTip": "C:\\Users\\Dinis\\Discord-RAT-2.1\\Webcam\\Webcam.csproj",
+              "RelativeToolTip": "..\\Webcam\\Webcam.csproj",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
+              "WhenOpened": "2025-05-19T19:09:56.108Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
               "DocumentIndex": 1,
-              "Title": "Discord rat",
-              "DocumentMoniker": "C:\\Users\\Dinis\\Discord-RAT-2.0\\Discord rat\\Discord rat.csproj",
-              "RelativeDocumentMoniker": "Discord rat.csproj",
-              "ToolTip": "C:\\Users\\Dinis\\Discord-RAT-2.0\\Discord rat\\Discord rat.csproj",
-              "RelativeToolTip": "Discord rat.csproj",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAIAAAAhAAAAAAAAAA==",
+              "Title": "Webcam.csproj",
+              "DocumentMoniker": "C:\\Users\\Dinis\\Discord-RAT-2.1\\Webcam\\Webcam.csproj",
+              "RelativeDocumentMoniker": "..\\Webcam\\Webcam.csproj",
+              "ToolTip": "C:\\Users\\Dinis\\Discord-RAT-2.1\\Webcam\\Webcam.csproj",
+              "RelativeToolTip": "..\\Webcam\\Webcam.csproj",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAkAAAAoAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
-              "WhenOpened": "2025-05-19T16:38:26.486Z",
+              "WhenOpened": "2025-05-19T19:07:31.085Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
               "DocumentIndex": 2,
-              "Title": "Program.cs",
-              "DocumentMoniker": "C:\\Users\\Dinis\\Discord-RAT-2.0\\Discord rat\\Program.cs",
-              "RelativeDocumentMoniker": "Program.cs",
-              "ToolTip": "C:\\Users\\Dinis\\Discord-RAT-2.0\\Discord rat\\Program.cs",
-              "RelativeToolTip": "Program.cs",
-              "ViewState": "AgIAAGAAAAAAAAAAAAAmwGIAAAANAAAAAAAAAA==",
+              "Title": "Webcam.cs",
+              "DocumentMoniker": "C:\\Users\\Dinis\\Discord-RAT-2.1\\Webcam\\Webcam.cs",
+              "RelativeDocumentMoniker": "..\\Webcam\\Webcam.cs",
+              "ToolTip": "C:\\Users\\Dinis\\Discord-RAT-2.1\\Webcam\\Webcam.cs",
+              "RelativeToolTip": "..\\Webcam\\Webcam.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAALEAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-05-19T16:34:51.003Z",
+              "WhenOpened": "2025-05-19T18:58:08.235Z",
               "EditorCaption": ""
             }
           ]

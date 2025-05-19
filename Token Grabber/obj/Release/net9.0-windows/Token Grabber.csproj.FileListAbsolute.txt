@@ -1,0 +1,11 @@
+C:\Users\Dinis\Discord-RAT-2.1\Discord RAT\Resources\net9.0-windows\Token Grabber.deps.json
+C:\Users\Dinis\Discord-RAT-2.1\Discord RAT\Resources\net9.0-windows\Token Grabber.dll
+C:\Users\Dinis\Discord-RAT-2.1\Discord RAT\Resources\net9.0-windows\Token Grabber.pdb
+C:\Users\Dinis\Discord-RAT-2.1\Token grabber\obj\Release\net9.0-windows\Token Grabber.csproj.AssemblyReference.cache
+C:\Users\Dinis\Discord-RAT-2.1\Token grabber\obj\Release\net9.0-windows\Token Grabber.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Dinis\Discord-RAT-2.1\Token grabber\obj\Release\net9.0-windows\Token Grabber.csproj.CoreCompileInputs.cache
+C:\Users\Dinis\Discord-RAT-2.1\Token grabber\obj\Release\net9.0-windows\Token Grabber.sourcelink.json
+C:\Users\Dinis\Discord-RAT-2.1\Token grabber\obj\Release\net9.0-windows\Token Grabber.dll
+C:\Users\Dinis\Discord-RAT-2.1\Token grabber\obj\Release\net9.0-windows\refint\Token Grabber.dll
+C:\Users\Dinis\Discord-RAT-2.1\Token grabber\obj\Release\net9.0-windows\Token Grabber.pdb
+C:\Users\Dinis\Discord-RAT-2.1\Token grabber\obj\Release\net9.0-windows\ref\Token Grabber.dll

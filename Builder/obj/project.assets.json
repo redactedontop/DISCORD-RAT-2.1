@@ -291,11 +291,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\Dinis\\Discord-RAT-2.0\\builder\\builder.csproj",
-      "projectName": "builder",
-      "projectPath": "C:\\Users\\Dinis\\Discord-RAT-2.0\\builder\\builder.csproj",
+      "projectUniqueName": "C:\\Users\\Dinis\\Discord-RAT-2.1\\builder\\Builder.csproj",
+      "projectName": "Builder",
+      "projectPath": "C:\\Users\\Dinis\\Discord-RAT-2.1\\builder\\Builder.csproj",
       "packagesPath": "C:\\Users\\Dinis\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\Dinis\\Discord-RAT-2.0\\builder\\obj\\",
+      "outputPath": "C:\\Users\\Dinis\\Discord-RAT-2.1\\builder\\obj\\",
       "projectStyle": "PackageReference",
       "fallbackFolders": [
         "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"

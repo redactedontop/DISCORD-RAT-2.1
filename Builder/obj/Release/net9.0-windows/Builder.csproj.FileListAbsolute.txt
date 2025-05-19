@@ -1,0 +1,19 @@
+C:\Users\Dinis\Discord-RAT-2.1\Discord RAT\bin\net9.0-windows\Builder.exe
+C:\Users\Dinis\Discord-RAT-2.1\Discord RAT\bin\net9.0-windows\Builder.dll.config
+C:\Users\Dinis\Discord-RAT-2.1\Discord RAT\bin\net9.0-windows\Builder.deps.json
+C:\Users\Dinis\Discord-RAT-2.1\Discord RAT\bin\net9.0-windows\Builder.runtimeconfig.json
+C:\Users\Dinis\Discord-RAT-2.1\Discord RAT\bin\net9.0-windows\Builder.dll
+C:\Users\Dinis\Discord-RAT-2.1\Discord RAT\bin\net9.0-windows\Builder.pdb
+C:\Users\Dinis\Discord-RAT-2.1\builder\obj\Release\net9.0-windows\Builder.csproj.AssemblyReference.cache
+C:\Users\Dinis\Discord-RAT-2.1\builder\obj\Release\net9.0-windows\builder.Form1.resources
+C:\Users\Dinis\Discord-RAT-2.1\builder\obj\Release\net9.0-windows\Builder.Properties.Resources.resources
+C:\Users\Dinis\Discord-RAT-2.1\builder\obj\Release\net9.0-windows\Builder.csproj.GenerateResource.cache
+C:\Users\Dinis\Discord-RAT-2.1\builder\obj\Release\net9.0-windows\Builder.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Dinis\Discord-RAT-2.1\builder\obj\Release\net9.0-windows\Builder.csproj.CoreCompileInputs.cache
+C:\Users\Dinis\Discord-RAT-2.1\builder\obj\Release\net9.0-windows\Builder.sourcelink.json
+C:\Users\Dinis\Discord-RAT-2.1\builder\obj\Release\net9.0-windows\Builder.csproj.Up2Date
+C:\Users\Dinis\Discord-RAT-2.1\builder\obj\Release\net9.0-windows\Builder.dll
+C:\Users\Dinis\Discord-RAT-2.1\builder\obj\Release\net9.0-windows\refint\Builder.dll
+C:\Users\Dinis\Discord-RAT-2.1\builder\obj\Release\net9.0-windows\Builder.pdb
+C:\Users\Dinis\Discord-RAT-2.1\builder\obj\Release\net9.0-windows\Builder.genruntimeconfig.cache
+C:\Users\Dinis\Discord-RAT-2.1\builder\obj\Release\net9.0-windows\ref\Builder.dll

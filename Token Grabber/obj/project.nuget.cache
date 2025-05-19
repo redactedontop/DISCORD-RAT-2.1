@@ -1,9 +1,10 @@
 {
   "version": 2,
-  "dgSpecHash": "wI280jmCOac=",
+  "dgSpecHash": "HKBHqDPpC40=",
   "success": true,
-  "projectFilePath": "C:\\Users\\Dinis\\Discord-RAT-2.0\\Token grabber\\Token Grabber.csproj",
+  "projectFilePath": "C:\\Users\\Dinis\\Discord-RAT-2.1\\Token grabber\\Token Grabber.csproj",
   "expectedPackageFiles": [
+    "C:\\Users\\Dinis\\.nuget\\packages\\bouncycastle.cryptography\\2.6.0\\bouncycastle.cryptography.2.6.0.nupkg.sha512",
     "C:\\Users\\Dinis\\.nuget\\packages\\microsoft.csharp\\4.7.0\\microsoft.csharp.4.7.0.nupkg.sha512",
     "C:\\Users\\Dinis\\.nuget\\packages\\system.data.datasetextensions\\4.5.0\\system.data.datasetextensions.4.5.0.nupkg.sha512",
     "C:\\Users\\Dinis\\.nuget\\packages\\system.security.cryptography.protecteddata\\9.0.5\\system.security.cryptography.protecteddata.9.0.5.nupkg.sha512"

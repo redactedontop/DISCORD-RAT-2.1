@@ -1,0 +1,18 @@
+C:\Users\Dinis\Discord-RAT-2.1\Discord RAT\bin\Release\net9.0-windows7.0\Discord RAT.exe
+C:\Users\Dinis\Discord-RAT-2.1\Discord RAT\bin\Release\net9.0-windows7.0\Discord RAT.dll.config
+C:\Users\Dinis\Discord-RAT-2.1\Discord RAT\bin\Release\net9.0-windows7.0\Discord RAT.deps.json
+C:\Users\Dinis\Discord-RAT-2.1\Discord RAT\bin\Release\net9.0-windows7.0\Discord RAT.runtimeconfig.json
+C:\Users\Dinis\Discord-RAT-2.1\Discord RAT\bin\Release\net9.0-windows7.0\Discord RAT.dll
+C:\Users\Dinis\Discord-RAT-2.1\Discord RAT\bin\Release\net9.0-windows7.0\Discord RAT.pdb
+C:\Users\Dinis\Discord-RAT-2.1\Discord RAT\bin\Release\net9.0-windows7.0\System.Speech.dll
+C:\Users\Dinis\Discord-RAT-2.1\Discord RAT\bin\Release\net9.0-windows7.0\runtimes\win\lib\net9.0\System.Speech.dll
+C:\Users\Dinis\Discord-RAT-2.1\Discord RAT\obj\Release\net9.0-windows7.0\Discord RAT.csproj.AssemblyReference.cache
+C:\Users\Dinis\Discord-RAT-2.1\Discord RAT\obj\Release\net9.0-windows7.0\Discord RAT.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Dinis\Discord-RAT-2.1\Discord RAT\obj\Release\net9.0-windows7.0\Discord RAT.csproj.CoreCompileInputs.cache
+C:\Users\Dinis\Discord-RAT-2.1\Discord RAT\obj\Release\net9.0-windows7.0\Discord RAT.sourcelink.json
+C:\Users\Dinis\Discord-RAT-2.1\Discord RAT\obj\Release\net9.0-windows7.0\Discord .AD821FB9.Up2Date
+C:\Users\Dinis\Discord-RAT-2.1\Discord RAT\obj\Release\net9.0-windows7.0\Discord RAT.dll
+C:\Users\Dinis\Discord-RAT-2.1\Discord RAT\obj\Release\net9.0-windows7.0\refint\Discord RAT.dll
+C:\Users\Dinis\Discord-RAT-2.1\Discord RAT\obj\Release\net9.0-windows7.0\Discord RAT.pdb
+C:\Users\Dinis\Discord-RAT-2.1\Discord RAT\obj\Release\net9.0-windows7.0\Discord RAT.genruntimeconfig.cache
+C:\Users\Dinis\Discord-RAT-2.1\Discord RAT\obj\Release\net9.0-windows7.0\ref\Discord RAT.dll
